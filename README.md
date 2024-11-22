@@ -42,8 +42,8 @@ I am passionate about creating engaging and efficient web experiences using my s
 <ul>
   <li><strong>Facebook:</strong> <a href="#" target="_blank">Your Profile</a></li>
   <li><strong>X (Twitter):</strong> <a href="#" target="_blank">Your Profile</a></li>
-  <li><strong>LinkedIn:</strong> <a href="#" target="_blank">Your Profile</a></li>
-  <li><strong>Discord:</strong> YourUsername#1234</li>
+  <li><strong>LinkedIn:</strong> <a href="https://discord.gg/GbXqFRSw" target="_blank">Regan D'dev</a></li>
+  <li><strong>Discord:</strong>regan084</li>
 </ul>
 
 ---
