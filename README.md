@@ -1,23 +1,23 @@
-# <span style="color: #3498db;">👋 Hi, I'm **Regan**</span>  
-### A Passionate Frontend Developer from <span style="color: #e74c3c;">**Bangladesh**</span>  
+# 👋 Hi, I'm **Regan**  
+### A Passionate Frontend Developer from **Bangladesh** 🇧🇩  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/devregan)  
 [![GitHub Followers](https://img.shields.io/github/followers/devregan?label=Follow&style=social)](https://github.com/devregan)  
 
 ---
 
-## 🚀 <span style="color: #2ecc71;">**About Me**</span>  
-I'm a <span style="color: #9b59b6;">**Frontend Developer**</span> with a passion for building interactive and user-friendly web applications. I specialize in <span style="color: #f39c12;">**React.js**</span> and <span style="color: #1abc9c;">**Electron**</span>, and I'm always exploring new technologies to enhance my skills. I love contributing to open-source projects and collaborating with other developers. Let's build something amazing together!  
+## 🚀 **About Me**  
+I'm a **Frontend Developer** with a passion for building interactive and user-friendly web applications. I specialize in **React.js** and **Electron**, and I'm always exploring new technologies to enhance my skills. I love contributing to open-source projects and collaborating with other developers. Let's build something amazing together!  
 
 ---
 
-## 🌐 <span style="color: #f39c12;">**Featured Project**</span>  
+## 🌐 **Featured Project**  
 [**Font Travel Web**](https://devregan.github.io/Font-Travel-Web/)  
 A modern web application designed to make font exploration and selection seamless. Built with **React.js** and **Vite**, this project showcases my skills in frontend development and user experience design.  
 
 ---
 
-## 🛠️ <span style="color: #3498db;">**Technologies & Tools**</span>  
+## 🛠️ **Technologies & Tools**  
 Here are some of the technologies and tools I work with:  
 
 <p align="left">
@@ -36,15 +36,15 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 📚 <span style="color: #9b59b6;">**Currently Learning**</span>  
+## 📚 **Currently Learning**  
 I'm always expanding my skill set. Currently, I'm diving deeper into:  
-- <span style="color: #3498db;">**React.js**</span> (Advanced Concepts)  
-- <span style="color: #f39c12;">**Vite**</span> (Build Tool)  
-- <span style="color: #1abc9c;">**Electron**</span> (Desktop App Development)  
+- **React.js** (Advanced Concepts)  
+- **Vite** (Build Tool)  
+- **Electron** (Desktop App Development)  
 
 ---
 
-## 📊 <span style="color: #2ecc71;">**GitHub Stats**</span>  
+## 📊 **GitHub Stats**  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=devregan&show_icons=true&locale=en&layout=compact&theme=radical)  
 
@@ -54,7 +54,7 @@ I'm always expanding my skill set. Currently, I'm diving deeper into:
 
 ---
 
-## 📩 <span style="color: #3498db;">**Let's Connect**</span>  
+## 📩 **Let's Connect**  
 I'm always open to discussions, collaborations, or just a friendly chat. Feel free to reach out!  
 
 - **Email:** [reganddev@gmail.com](mailto:reganddev@gmail.com)  
@@ -63,12 +63,12 @@ I'm always open to discussions, collaborations, or just a friendly chat. Feel fr
 
 ---
 
-## ⚡ <span style="color: #e74c3c;">**Fun Fact**</span>  
+## ⚡ **Fun Fact**  
 I may not be funny, but I can definitely make your website look awesome! 😄  
 
 ---
 
-## 🌟 <span style="color: #f39c12;">**Support My Work**</span>  
+## 🌟 **Support My Work**  
 If you find my projects interesting or helpful, consider giving them a ⭐️ on GitHub!  
 
 ---
