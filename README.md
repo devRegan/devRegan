@@ -29,3 +29,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devregan&" alt="devregan" /></p>
 
+# GitHub Achievements
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devRegan&show_icons=true&hide=prs&count_private=true)
+
+## My Achievements
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devRegan)
