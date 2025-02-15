@@ -16,15 +16,6 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 ---
 
-# 🚀 GitHub Stats
-
-![Total Commits](https://img.shields.io/github/commit-activity/m/username)
-![Repositories](https://img.shields.io/github/repos/username)
-![Contributions](https://img.shields.io/github/commit-activity/y/username)
-![Followers](https://img.shields.io/github/followers/username?style=social)
-![Stars](https://img.shields.io/github/stars/username?style=social)
-![Forks](https://img.shields.io/github/forks/username?style=social)
-
 ## 📫 Contact Me
 
 - **Email**: [reganddev@gmail.com](mailto:reganddev@gmail.com)  
