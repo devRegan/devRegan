@@ -9,10 +9,6 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 # Skills & Tools
 
-# 💻 **Skills & Technologies** 🌐
-
-# 💻 **Skills & Technologies** 🌐
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=E34F26)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=1572B6)  
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white&labelColor=CC6699)  
@@ -21,13 +17,6 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=FCC624)
 
 ---
-
-
-### 🔧 **Other Tools**
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)
-- **Web Hosting**: ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white&labelColor=00C7B7)
-
-
 
 ## 📫 Contact Me
 
