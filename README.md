@@ -24,7 +24,9 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/regan084)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:reganddev@gmail.com)
 
-# Chess.com Username: [reganddev](https://www.chess.com/member/reganddev)
+# 🎮 **Chess.com Username**: [**reganddev**](https://www.chess.com/member/reganddev)  
+![Chess.com Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Chess.com_logo.svg)
+
 
 
 ---
