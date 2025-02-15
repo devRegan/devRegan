@@ -26,7 +26,7 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 # 🎮 **Chess.com Username**: [**reganddev**](https://www.chess.com/member/reganddev)
 
-![Chess.com Logo](images/chess.com_logo.png)  <-- Replace with the actual filename
+![Chess.com Logo](images/chess_pieces.png "Chess Pieces")
 
 ---
 
