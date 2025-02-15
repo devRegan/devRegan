@@ -16,14 +16,14 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 ---
 
-# Status
+# 🚀 GitHub Stats
 
-![Build Status](https://img.shields.io/github/workflow/status/username/repository/CI)
-![Last Commit](https://img.shields.io/github/last-commit/username/repository)
-![Contributors](https://img.shields.io/github/contributors/username/repository)
-![Issues](https://img.shields.io/github/issues/username/repository)
-![Pull Requests](https://img.shields.io/github/issues-pr/username/repository)
-
+![Total Commits](https://img.shields.io/github/commit-activity/m/username)
+![Repositories](https://img.shields.io/github/repos/username)
+![Contributions](https://img.shields.io/github/commit-activity/y/username)
+![Followers](https://img.shields.io/github/followers/username?style=social)
+![Stars](https://img.shields.io/github/stars/username?style=social)
+![Forks](https://img.shields.io/github/forks/username?style=social)
 
 ## 📫 Contact Me
 
