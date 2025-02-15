@@ -7,12 +7,40 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 ## 🛠️ Skills
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=linear-gradient(45deg,%20%23E34F26,%20%23FF6B6B))
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=linear-gradient(45deg,%20%231572B6,%20%23607D8B))
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&color=linear-gradient(45deg,%20%23CC6699,%20%23FF4081))
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=linear-gradient(45deg,%20%23F7DF1E,%20%23FFEB3B))
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=linear-gradient(45deg,%20%23F24E1E,%20%23FF5722))
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=linear-gradient(45deg,%20%23FCC624,%20%23FFC107))
+<div class="badges">
+  <a href="#" class="badge html">HTML</a>
+  <a href="#" class="badge css">CSS</a>
+  <a href="#" class="badge scss">SCSS</a>
+  <a href="#" class="badge js">JavaScript</a>
+  <a href="#" class="badge figma">Figma</a>
+  <a href="#" class="badge linux">Linux</a>
+</div>
+
+<style>
+  .badges {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .badge {
+    padding: 8px 16px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  .badge:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+  }
+  .html { background: linear-gradient(45deg, #E34F26, #FF6B6B); }
+  .css { background: linear-gradient(45deg, #1572B6, #607D8B); }
+  .scss { background: linear-gradient(45deg, #CC6699, #FF4081); }
+  .js { background: linear-gradient(45deg, #F7DF1E, #FFEB3B); color: black; }
+  .figma { background: linear-gradient(45deg, #F24E1E, #FF5722); }
+  .linux { background: linear-gradient(45deg, #FCC624, #FFC107); color: black; }
+</style>
 
 
 ## 📫 Contact Me
