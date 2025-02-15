@@ -13,9 +13,11 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 ## 📫 Contact Me
 
-- **Email**: [reganddev@gmail.com](mailto:reganddev@gmail.com)  
-- **LinkedIn**: [Regan D. Dev](https://www.linkedin.com/in/regan-d-dev-a3254b326)  
-- **Discord**: regan084  
+## 📫 Contact Me
+
+- **Email**: [![Email Icon](https://img.shields.io/badge/-reganddev@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:reganddev@gmail.com)  
+- **LinkedIn**: [![LinkedIn Logo](https://img.shields.io/badge/-Regan%20D.%20Dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regan-d-dev-a3254b326)  
+- **Discord**: [![Discord Logo](https://img.shields.io/badge/-regan084-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/regan084)
 
 ---
 
