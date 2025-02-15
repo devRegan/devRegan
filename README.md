@@ -42,7 +42,6 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
   .linux { background: linear-gradient(45deg, #FCC624, #FFC107); color: black; }
 </style>
 
-
 ## 📫 Contact Me
 
 - **Email**: [reganddev@gmail.com](mailto:reganddev@gmail.com)  
