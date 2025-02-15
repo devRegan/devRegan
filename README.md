@@ -16,6 +16,15 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 ---
 
+# Status
+
+![Build Status](https://img.shields.io/github/workflow/status/username/repository/CI)
+![Last Commit](https://img.shields.io/github/last-commit/username/repository)
+![Contributors](https://img.shields.io/github/contributors/username/repository)
+![Issues](https://img.shields.io/github/issues/username/repository)
+![Pull Requests](https://img.shields.io/github/issues-pr/username/repository)
+
+
 ## 📫 Contact Me
 
 - **Email**: [reganddev@gmail.com](mailto:reganddev@gmail.com)  
