@@ -13,11 +13,18 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 ## 📫 Contact Me
 
-## 📫 Contact Me
 
-- **Email**: [![Email Icon](https://img.shields.io/badge/-reganddev@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:reganddev@gmail.com)  
-- **LinkedIn**: [![LinkedIn Logo](https://img.shields.io/badge/-Regan%20D.%20Dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regan-d-dev-a3254b326)  
-- **Discord**: [![Discord Logo](https://img.shields.io/badge/-regan084-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/regan084)
+<p align="center">
+  <a href="mailto:reganddev@gmail.com">
+    ![Email](https://img.shields.io/badge/-reganddev@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)
+  </a>
+  <a href="https://www.linkedin.com/in/regan-d-dev-a3254b326">
+    ![LinkedIn](https://img.shields.io/badge/-Regan%20D.%20Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
+  <a href="https://discord.com/users/regan084">
+    ![Discord](https://img.shields.io/badge/-regan084-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+  </a>
+</p>
 
 ---
 
