@@ -1,76 +1,27 @@
-# 👋 Hi, I'm **Regan**  
-### A Passionate Frontend Developer from **Bangladesh** 🇧🇩  
+# Hi, I'm Regan 👋
+
+I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion for building clean, responsive, and user-friendly websites.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/devregan)  
 [![GitHub Followers](https://img.shields.io/github/followers/devregan?label=Follow&style=social)](https://github.com/devregan)  
 
----
+## 🛠️ Skills
 
-## 🚀 **About Me**  
-I'm a **Frontend Developer** with a passion for building interactive and user-friendly web applications. I specialize in **React.js** and **Electron**, and I'm always exploring new technologies to enhance my skills. I love contributing to open-source projects and collaborating with other developers. Let's build something amazing together!  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
----
+## 📫 Contact Me
 
-## 🌐 **Featured Project**  
-[**Font Travel Web**](https://devregan.github.io/Font-Travel-Web/)  
-A modern web application designed to make font exploration and selection seamless. Built with **React.js** and **Vite**, this project showcases my skills in frontend development and user experience design.  
-
----
-
-## 🛠️ **Technologies & Tools**  
-Here are some of the technologies and tools I work with:  
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-</p>
+- **Email**: [reganddev@gmail.com](mailto:reganddev@gmail.com)  
+- **LinkedIn**: [Regan D. Dev](https://www.linkedin.com/in/regan-d-dev-a3254b326)  
+- **Discord**: regan084  
 
 ---
 
-## 📚 **Currently Learning**  
-I'm always expanding my skill set. Currently, I'm diving deeper into:  
-- **React.js** (Advanced Concepts)  
-- **Vite** (Build Tool)  
-- **Electron** (Desktop App Development)  
+⭐️ **Thanks for visiting!** ⭐️
 
 ---
-
-## 📊 **GitHub Stats**  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=devregan&show_icons=true&locale=en&layout=compact&theme=radical)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devregan&show_icons=true&locale=en&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devregan&theme=radical)  
-
----
-
-## 📩 **Let's Connect**  
-I'm always open to discussions, collaborations, or just a friendly chat. Feel free to reach out!  
-
-- **Email:** [reganddev@gmail.com](mailto:reganddev@gmail.com)  
-- **Discord:** [regan084](https://discord.gg/regan084)  
-- **GitHub:** [devregan](https://github.com/devregan)  
-
----
-
-## ⚡ **Fun Fact**  
-I may not be funny, but I can definitely make your website look awesome! 😄  
-
----
-
-## 🌟 **Support My Work**  
-If you find my projects interesting or helpful, consider giving them a ⭐️ on GitHub!  
-
----
-
-### Thanks for visiting my profile! 😊  
