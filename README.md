@@ -17,7 +17,7 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 ![GIMP](https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white)
 
-## 🌐 Socials & Contact
+### 🌐 Socials & Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regan-d-dev-a3254b326)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/regan084)
