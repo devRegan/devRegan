@@ -5,7 +5,7 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 [![Profile Views](https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/devregan)  
 [![GitHub Followers](https://img.shields.io/github/followers/devregan?label=Follow&style=social)](https://github.com/devregan)  
 
-### 🛠️ Technical Skills
+🛠️ Technical Skills
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?logo=sass&logoColor=white)
