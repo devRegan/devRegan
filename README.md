@@ -1,6 +1,6 @@
 # Hi, I'm Regan 👋
 
-<!-- I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion for building clean, responsive, and user-friendly websites. -->
+I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion for building clean, responsive, and user-friendly websites.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/devregan)  
 [![GitHub Followers](https://img.shields.io/github/followers/devregan?label=Follow&style=social)](https://github.com/devregan)  
