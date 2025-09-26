@@ -11,6 +11,8 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
