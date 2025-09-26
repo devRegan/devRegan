@@ -37,8 +37,8 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 
 
-<!--
-## Hi, I'm Regan 👋
+
+<!-- ## Hi, I'm Regan 👋
 
 I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion for building clean, responsive, and user-friendly websites.
 
@@ -61,4 +61,4 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regan-ddev/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:reganddev@gmail.com)
--->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/regan084) -->
