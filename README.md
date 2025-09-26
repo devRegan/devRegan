@@ -16,7 +16,7 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
 ![GIMP](https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%231DA1F2.svg?logo=photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%231DA1F2.svg?logo=data:image/svg+xml;base64,YOUR_BASE64_ENCODED_SVG)
 
 ### Socials & Contact
 
