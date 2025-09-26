@@ -25,16 +25,17 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
 <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/regan084) -->
 
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat-square)
-![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?logo=sass&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?logo=sass&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=flat-square)
-![GIMP](https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=for-the-badge)
+![GIMP](https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white&style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/regan-ddev/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=flat-square)](mailto:reganddev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/regan-ddev/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:reganddev@gmail.com)
+
