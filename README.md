@@ -8,7 +8,7 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
   <img src="https://img.shields.io/github/followers/devregan?label=Follow&style=social" style="border-radius:5px; height:28px; margin:2px;">
 </div>
 
-### Technical Skills
+### Programming Languages
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
@@ -18,11 +18,13 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion fo
   <img src="https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
 </div>
 
+### Tools & Platforms
 <div>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=flat" style="border-radius:5px; height:28px; margin:2px;">
   <img src="https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
 </div>
+
 
 ### Socials & Contact
 <div>
