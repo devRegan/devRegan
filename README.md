@@ -1,6 +1,6 @@
-## <span style="font-size:19px;">Hi, I'm Regan 👋</span>
+## Hi, I'm Regan 👋
 
-<span style="font-size:19px;">I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b> with a passion for building clean, responsive, and user-friendly websites.</span>
+I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩** with a passion for building clean, responsive, and user-friendly websites.
 
 <!-- Profile views and followers badges -->
 <div>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/devregan?label=Follow&style=social" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
-### <span style="font-size:19px;">Programming Languages</span>
+### Programming Languages
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
@@ -18,14 +18,14 @@
   <img src="https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
-### <span style="font-size:19px;">Tools & Platforms</span>
+### Tools & Platforms
 <div>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
-### <span style="font-size:19px;">Socials & Contact</span>
+### Socials & Contact
 <div>
   <a href="https://www.linkedin.com/in/regan-ddev/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
