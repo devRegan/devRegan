@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/devregan?label=Follow&style=social" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
-### <span style="font-size:25px;">Programming Languages</span>
+### <span style="font-size:25px;">Styling , Designing & Programming Languages</span>
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
