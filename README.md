@@ -21,6 +21,8 @@
 ### <span style="font-size:25px;">Python Libraries</span>
 <div>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
+  <img src="https://img.shields.io/badge/Matplotlib-%233C78D8.svg?logo=plotly&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
 ### <span style="font-size:25px;">Tools & Platforms</span>
@@ -30,15 +32,19 @@
   <img src="https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
-### <span style="font-size:25px;">Socials & Contact</span>
+### <span style="font-size:25px;">Coding & Data Profiles</span>
 <div>
-  <a href="https://www.linkedin.com/in/regan-ddev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
+  <a href="https://leetcode.com/u/devregan/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   </a>
-  <a href="mailto:reganddev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
+  <a href="https://www.kaggle.com/regandas">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   </a>
 </div>
+
+### <span style="font-size:25px;">Socials & Contact</span>
+<div>
+
 
 
 
