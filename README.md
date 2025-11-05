@@ -1,6 +1,6 @@
 ## <span style="font-size:25px;">Hi, I'm Regan 👋</span>
 
-<span style="font-size:25px;">I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b> with a passion for building clean, responsive, and user-friendly websites.</span>
+<span style="font-size:25px;">I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.</span>
 
 <!-- Profile views and followers badges -->
 <div>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/devregan?label=Follow&style=social" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
-### <span style="font-size:25px;">Styling , Designing & Programming Languages</span>
+### <span style="font-size:25px;">Styling, Designing & Programming Languages</span>
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   </a>
 </div>
+
 
 
 
