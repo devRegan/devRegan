@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
+### <span style="font-size:25px;">Python Libraries</span>
+<div>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
+</div>
+
 ### <span style="font-size:25px;">Tools & Platforms</span>
 <div>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
@@ -34,10 +39,6 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   </a>
 </div>
-
-
-
-
 
 
 
