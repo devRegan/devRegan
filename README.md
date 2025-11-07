@@ -1,11 +1,9 @@
 ## <span style="font-size:25px;">Hi, I'm Regan 👋</span>
 
 <span style="font-size:25px;">
-I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.
-</span>
-
+I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites. <br>
 ♟️ Chess Username: **reganddev**
-
+</span>
 
 <!-- Profile views and followers badges -->
 <div>
