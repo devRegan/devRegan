@@ -4,7 +4,7 @@
 I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.
 </span>
 
-<br>
+<hr>
 
 <div style="margin:8px 0;">
   <a href="https://www.chess.com/member/reganddev">
