@@ -57,21 +57,27 @@
 
 
 ### <span style="font-size:25px;">Projects</span>
-<div>
-  <!-- Project Badge -->
-  <a href="https://devregan.github.io/FreeChat/" target="_blank">
-    <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
-  </a>
-  <br>
 
-  <!-- Links -->
-  <span style="font-size:14px;">
-    Demo: <a href="https://devregan.github.io/FreeChat/" target="_blank">https://devregan.github.io/FreeChat/</a>  
-    | Repo: <a href="https://github.com/devRegan/FreeChat" target="_blank">https://github.com/devRegan/FreeChat</a>  
-    | Download: <a href="https://github.com/devRegan/FreeChat.git" target="_blank">https://github.com/devRegan/FreeChat.git</a>
-  </span>
-</div>
+<!-- Project Badge -->
+<a href="https://devregan.github.io/FreeChat/" target="_blank">
+  <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
+</a>
 
+<!-- Copy-ready URLs -->
+<br><br>
+
+**Demo:**  
+```bash
+https://devregan.github.io/FreeChat/
+```
+***Repo***
+```bash
+https://github.com/devRegan/FreeChat
+```
+***Download***
+```bash
+https://github.com/devRegan/FreeChat.git
+```
 
 
 
