@@ -59,13 +59,13 @@
 ### <span style="font-size:25px;">Projects</span>
 
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+  <span style="background: linear-gradient(90deg, #3C78D8, #5AA0F0); color: white; padding: 6px 14px; border-radius: 8px; font-weight: 600; font-size: 14px;">
+    FreeChat
+  </span>
 
-  <!-- FreeChat -->
-  <span style="background-color:#3C78D8; color:white; padding:4px 10px; border-radius:5px; font-weight:500;">FreeChat</span>
-
-  <!-- Repo -->
-  <span style="background-color:#000000; color:white; padding:4px 10px; border-radius:5px; font-weight:500;">Repo</span>
-
+  <span style="background: linear-gradient(90deg, #000000, #333333); color: white; padding: 6px 14px; border-radius: 8px; font-weight: 600; font-size: 14px;">
+    Repo
+  </span>
 </div>
 
 
