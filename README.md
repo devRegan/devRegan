@@ -9,15 +9,14 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
     <img src="https://img.shields.io/badge/♟️%20Chess-reganddev-4CAF50?style=flat&logo=chess.com&logoColor=white" style="border-radius:5px; height:24px; margin:2px;">
   </a>
 </div>
-<br>
 
-<!-- Profile views and followers badges -->
-<div>
+<!-- Profile views and followers -->
+<div style="margin-bottom:16px;">
   <img src="https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/github/followers/devregan?label=Follow&style=social" style="border-radius:5px; height:26px; margin:2px;">
 </div>
 
-### <span style="font-size:25px;">Styling, Designing & Programming Languages</span>
+### <span style="font-size:25px;">Languages & Styling</span>
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
@@ -30,10 +29,6 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
 ### <span style="font-size:25px;">Python Libraries</span>
 <div>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
-  <!-- 
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
-  <img src="https://img.shields.io/badge/Matplotlib-%233C78D8.svg?logo=plotly&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;"> 
-  -->
 </div>
 
 ### <span style="font-size:25px;">Tools & Platforms</span>
@@ -62,8 +57,6 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   </a>
 </div>
-
-
 
 ### <span style="font-size:25px;">Projects</span>
 <div>
