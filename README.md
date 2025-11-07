@@ -1,17 +1,13 @@
-<span style="font-size:25px;">
-I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.
-</span>
-
-[![Chess](https://img.shields.io/badge/♟️%20Chess-reganddev-blue?style=for-the-badge)](https://www.chess.com/member/reganddev)
-
-
 ## <span style="font-size:25px;">Hi, I'm Regan 👋</span>
 
 <span style="font-size:25px;">
 I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.
 </span>
 
-Chess ♟️ Username: **reganddev**
+<div>
+  <img src="https://img.shields.io/badge/♟️%20Chess-reganddev-4CAF50?style=flat&logo=chess.com&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
+</div>
+
 
 <!-- Profile views and followers badges -->
 <div>
