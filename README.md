@@ -58,21 +58,15 @@
 
 ### <span style="font-size:25px;">Projects</span>
 
-<!-- Project Badge Row -->
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
 
-  <!-- FreeChat Demo -->
-  <a href="https://devregan.github.io/FreeChat/" target="_blank">
-    <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logoColor=white" style="border-radius:5px; height:26px;">
-  </a>
+  <!-- FreeChat -->
+  <span style="background-color:#3C78D8; color:white; padding:4px 10px; border-radius:5px; font-weight:500;">FreeChat</span>
 
   <!-- Repo -->
-  <a href="https://github.com/devRegan/FreeChat" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-%23000000?style=flat&logoColor=white" style="border-radius:5px; height:26px;">
-  </a>
+  <span style="background-color:#000000; color:white; padding:4px 10px; border-radius:5px; font-weight:500;">Repo</span>
 
 </div>
-
 
 
 <!-- ## Hi, I'm Regan 👋
