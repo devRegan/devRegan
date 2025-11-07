@@ -1,4 +1,5 @@
 ## <span style="font-size:25px;">Hi, I'm Regan 👋</span>
+
 <span style="font-size:25px; display:block; margin-bottom:16px;">
 I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.
 </span>
@@ -13,6 +14,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
   <img src="https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/github/followers/devregan?label=Follow&style=social" style="border-radius:5px; height:26px; margin:2px;">
 </div>
+
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Styling, Designing & Programming Languages</span>
 <div>
@@ -32,6 +34,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
   <img src="https://img.shields.io/badge/Matplotlib-%233C78D8.svg?logo=plotly&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;"> 
   -->
 </div>
+
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Tools & Platforms</span>
 <div>
@@ -39,6 +42,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
 </div>
+
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Coding & Data Profiles</span>
 <div>
@@ -49,6 +53,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   </a>
 </div>
+
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Socials & Contact</span>
 <div>
@@ -59,6 +64,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   </a>
 </div>
+
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Projects</span>
 <div>
