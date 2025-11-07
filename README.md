@@ -57,9 +57,12 @@
 ### <span style="font-size:25px;">Projects</span>
 <div>
   <a href="https://devregan.github.io/FreeChat/" target="_blank">
-    <img src="https://img.shields.io/badge/FreeChat-AI%20Chat-%233C78D8?style=flat&logo=chatbot&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
+    <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logo=github&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
   </a>
+  <br>
+  <span style="font-size:14px;">URL: <a href="https://devregan.github.io/FreeChat/" target="_blank">https://devregan.github.io/FreeChat/</a></span>
 </div>
+
 
 
 
