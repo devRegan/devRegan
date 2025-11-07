@@ -3,7 +3,7 @@
 <span style="font-size:25px;">
 I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.
 </span>
-
+<br>
 <div style="margin:12px 0;">
   <a href="https://www.chess.com/member/reganddev">
     <img src="https://img.shields.io/badge/♟️%20Chess-reganddev-4CAF50?style=flat&logo=chess.com&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
