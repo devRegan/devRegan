@@ -1,8 +1,6 @@
 ## <span style="font-size:25px;">Hi, I'm Regan 👋</span>
 
-#### <span">
-#### I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.
-#### </span> 
+#### <span>I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.</span> 
 
 <hr>
 
