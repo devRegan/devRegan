@@ -57,16 +57,15 @@
 
 
 ### <span style="font-size:25px;">Projects</span>
-
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <span style="background: linear-gradient(90deg, #3C78D8, #5AA0F0); color: white; padding: 6px 14px; border-radius: 8px; font-weight: 600; font-size: 14px;">
-    FreeChat
-  </span>
-
-  <span style="background: linear-gradient(90deg, #000000, #333333); color: white; padding: 6px 14px; border-radius: 8px; font-weight: 600; font-size: 14px;">
-    Repo
-  </span>
+<div>
+  <a href="https://devregan.github.io/FreeChat/" target="_blank">
+    <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logo=github&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
+  </a>
+  <br>
+  <span style="font-size:14px;">URL: <a href="https://devregan.github.io/FreeChat/" target="_blank">https://devregan.github.io/FreeChat/</a></span>
 </div>
+
+
 
 
 <!-- ## Hi, I'm Regan 👋
