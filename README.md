@@ -1,11 +1,13 @@
-## Hi, I'm Regan 👋
+# Hi, I'm Regan 👋
 
 I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩**, passionate about creating clean, responsive, and user-friendly websites.
 
-[![Chess](https://img.shields.io/badge/♟️%20Chess-reganddev-4CAF50?style=flat&logo=chess.com&logoColor=white)](https://www.chess.com/member/reganddev)  
-[![Profile views](https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat)]() [![Follow](https://img.shields.io/github/followers/devregan?label=Follow&style=social)]()
+🎮 [![Chess](https://img.shields.io/badge/♟️%20Chess-reganddev-4CAF50?style=flat&logo=chess.com&logoColor=white)](https://www.chess.com/member/reganddev)  
+👁️ [![Profile views](https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat)]()  ✨ [![Follow](https://img.shields.io/github/followers/devregan?label=Follow&style=social)]()
 
-### Languages & Styling
+---
+
+## 💻 Languages & Styling
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat)]()
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat)]()
 [![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?logo=sass&logoColor=white&style=flat)]()
@@ -13,25 +15,34 @@ I'm a **Front-End Web Developer** from **Bangladesh 🇧🇩**, passionate about
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat)]()
 [![C++](https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white&style=flat)]()
 
-### Python Libraries
+---
+
+## 🐍 Python Libraries
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=flat)]()
 
-### Tools & Platforms
+---
+
+## 🛠️ Tools & Platforms
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=flat)]()
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=flat)]()
 [![GIMP](https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white&style=flat)]()
 
-### Coding & Data Profiles
+---
+
+## 📊 Coding & Data Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black&style=flat)](https://leetcode.com/u/devregan/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white&style=flat)](https://www.kaggle.com/regandas)
 
-### Socials & Contact
+---
+
+## 📱 Socials & Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/regan-ddev/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=flat)](mailto:reganddev@gmail.com)
 
-### Projects
-[![FreeChat](https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logo=github&logoColor=white)](https://devregan.github.io/FreeChat/)
+---
 
+## 🚀 Projects
+[![FreeChat](https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logo=github&logoColor=white)](https://devregan.github.io/FreeChat/)
 
 
 
