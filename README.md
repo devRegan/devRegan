@@ -59,32 +59,19 @@
 ### <span style="font-size:25px;">Projects</span>
 
 <!-- Project Badge Row -->
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
 
   <!-- FreeChat Demo -->
   <a href="https://devregan.github.io/FreeChat/" target="_blank">
-    <img src="https://img.shields.io/badge/FreeChat-Demo-%233C78D8?style=flat&logoColor=white" style="border-radius:5px; height:26px;">
+    <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logoColor=white" style="border-radius:5px; height:26px;">
   </a>
 
   <!-- Repo -->
   <a href="https://github.com/devRegan/FreeChat" target="_blank">
-    <img src="https://img.shields.io/badge/FreeChat-Repo-%23000000?style=flat&logoColor=white" style="border-radius:5px; height:26px;">
-  </a>
-
-  <!-- Download -->
-  <a href="https://github.com/devRegan/FreeChat.git" target="_blank">
-    <img src="https://img.shields.io/badge/FreeChat-Download-%23007ACC?style=flat&logoColor=white" style="border-radius:5px; height:26px;">
+    <img src="https://img.shields.io/badge/Repo-%23000000?style=flat&logoColor=white" style="border-radius:5px; height:26px;">
   </a>
 
 </div>
-
-<!-- Optional: Copy-ready URLs below, still horizontal -->
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px;">
-  <code>https://devregan.github.io/FreeChat/</code>
-  <code>https://github.com/devRegan/FreeChat</code>
-  <code>https://github.com/devRegan/FreeChat.git</code>
-</div>
-
 
 
 
