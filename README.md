@@ -1,8 +1,7 @@
 ## <span style="font-size:25px;">Hi, I'm Regan 👋</span>
 
-<span style="font-size:25px;">
+<span style="font-size:25px; display:block; margin-bottom:16px;">
 I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.
-  
 </span>
 
 <div style="margin:12px 0;">
@@ -11,7 +10,6 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
   </a>
 </div>
 <br>
-
 
 <!-- Profile views and followers badges -->
 <div>
