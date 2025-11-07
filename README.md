@@ -9,7 +9,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
     <img src="https://img.shields.io/badge/♟️%20Chess-reganddev-4CAF50?style=flat&logo=chess.com&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
   </a>
 </div>
-
+<br>
 
 
 <!-- Profile views and followers badges -->
