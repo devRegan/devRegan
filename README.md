@@ -17,6 +17,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
 
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Styling, Designing & Programming Languages</span>
+
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
@@ -27,6 +28,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
 </div>
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Python Libraries</span>
+
 <div>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <!-- 
@@ -37,6 +39,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
 
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Tools & Platforms</span>
+
 <div>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=flat" style="border-radius:5px; height:26px; margin:2px;">
@@ -45,6 +48,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
 
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Coding & Data Profiles</span>
+
 <div>
   <a href="https://leetcode.com/u/devregan/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black&style=flat" style="border-radius:5px; height:26px; margin:2px;">
@@ -56,6 +60,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
 
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Socials & Contact</span>
+
 <div>
   <a href="https://www.linkedin.com/in/regan-ddev/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" style="border-radius:5px; height:26px; margin:2px;">
@@ -67,6 +72,7 @@ I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate
 
 <!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px;">Projects</span>
+
 <div>
   <a href="https://devregan.github.io/FreeChat/" target="_blank">
     <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logo=github&logoColor=white" style="border-radius:5px; height:26px; margin:2px;">
