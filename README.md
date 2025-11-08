@@ -76,3 +76,9 @@
     <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logo=github&logoColor=white" style="border-radius:5px; height:28px; margin:2px;">
   </a>
 </div>
+<div style="margin:8px 0;">
+  <a href="https://devregan.github.io/DualChatAI/" target="_blank">
+    <img src="https://img.shields.io/badge/DualChatAI-%233C78D8?style=flat&logo=github&logoColor=white" style="border-radius:5px; height:28px; margin:2px;">
+  </a>
+</div>
+
