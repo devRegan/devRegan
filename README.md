@@ -2,7 +2,7 @@
 
 ### <span>I'm a <b>Front-End Web Developer</b> from <b>Bangladesh 🇧🇩</b>, passionate about creating clean, responsive, and user-friendly websites.</span> 
 
-<hr>
+<!-- <hr>
 
 <div style="margin:8px 0;">
   <a href="https://www.chess.com/member/reganddev">
@@ -10,13 +10,11 @@
   </a>
 </div>
 
-<!-- Profile views and followers badges -->
 <div style="margin:8px 0;">
   <img src="https://komarev.com/ghpvc/?username=devregan&label=Profile%20views&color=0e75b6&style=flat" style="border-radius:5px; height:28px; margin:2px;">
   <img src="https://img.shields.io/github/followers/devregan?label=Follow&style=social" style="border-radius:5px; height:28px; margin:2px;">
 </div>
 
-<!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px; margin-top:12px; margin-bottom:6px;">Styling, Designing & Programming Languages</span>
 
 <div style="margin:8px 0;">
@@ -28,14 +26,12 @@
   <img src="https://img.shields.io/badge/C++-%230059C8.svg?logo=c%2B%2B&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
 </div>
 
-<!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px; margin-top:12px; margin-bottom:6px;">Python Libraries</span>
 
 <div style="margin:8px 0;">
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
 </div>
 
-<!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px; margin-top:12px; margin-bottom:6px;">Tools & Platforms</span>
 
 <div style="margin:8px 0;">
@@ -44,7 +40,6 @@
   <img src="https://img.shields.io/badge/GIMP-%235C5543.svg?logo=gimp&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
 </div>
 
-<!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px; margin-top:12px; margin-bottom:6px;">Coding & Data Profiles</span>
 
 <div style="margin:8px 0;">
@@ -56,7 +51,6 @@
   </a>
 </div>
 
-<!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px; margin-top:12px; margin-bottom:6px;">Socials & Contact</span>
 
 <div style="margin:8px 0;">
@@ -66,9 +60,8 @@
   <a href="mailto:reganddev@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=flat" style="border-radius:5px; height:28px; margin:2px;">
   </a>
-</div>
+</div> -->
 
-<!-- ****************************************************************************************************************************************************************** -->
 ### <span style="font-size:25px; margin-top:12px; margin-bottom:6px;">Projects</span>
 
 <div style="display: flex; gap: 8px; align-items: center;">
