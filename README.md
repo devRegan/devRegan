@@ -65,11 +65,14 @@
 ### <span style="font-size:25px; margin-top:12px; margin-bottom:6px;">Projects</span>
 
 <div style="display: flex; gap: 8px; align-items: center;">
-  <!-- <a href="https://devregan.github.io/FreeChat/" target="_blank">
-    <img src="https://img.shields.io/badge/FreeChat-%233C78D8?style=flat&logo=github&logoColor=white" style="border-radius:5px; height:28px;">
-  </a> -->
   <a href="https://devregan.github.io/DualChatAI/" target="_blank">
     <img src="https://img.shields.io/badge/DualChatAI-%233C78D8?style=flat&logo=github&logoColor=white" style="border-radius:5px; height:28px;">
   </a>
+
+  <a href="https://devregan.github.io/CampusHub/" target="_blank">
+  <img src="https://img.shields.io/badge/CampusHub-%233C78D8?style=flat&logo=github&logoColor=white" 
+       style="border-radius:5px; height:28px;">
+</a>
+  
 </div>
 
